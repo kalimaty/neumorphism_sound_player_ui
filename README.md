@@ -1,6 +1,19 @@
 # neumorphsim_music_player_ui
-
 A new Flutter project.
+
+![1](https://github.com/kalimaty/neumorphism_sound_player_ui/assets/105967966/a52d2680-29d5-4b5f-9a0e-73fb6e1e1403)
+
+
+
+
+
+![2](https://github.com/kalimaty/neumorphism_sound_player_ui/assets/105967966/36348a37-6206-4d20-aec3-9ad92a723063)
+
+
+
+
+![3](https://github.com/kalimaty/neumorphism_sound_player_ui/assets/105967966/cdb74338-b466-4f08-8c85-c8a874f88b31)
+
 
 ## Getting Started
 
